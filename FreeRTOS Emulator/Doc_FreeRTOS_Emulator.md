@@ -1,10 +1,10 @@
-#Documentation Simulateur FreeRTOS
+# Documentation Simulateur FreeRTOS
 
 Ce document a pour objectif d'aider à installer un simulateur FreeRTOS selon le système d'exploitation.
 
 Le projet par défaut, une fois installé, doit donner le code de main_blinky.
 
-##Windows
+## Windows
 
 - Installer Eclipse for C https://www.eclipse.org/downloads/
 
@@ -17,7 +17,7 @@ Le projet par défaut, une fois installé, doit donner le code de main_blinky.
 Plus d'informations ici :
 https://www.freertos.org/FreeRTOS-Windows-Simulator-Emulator-for-Visual-Studio-and-Eclipse-MingW.html
 
-##Linux
+## Linux
 
 Pre-requisites (the output below shows the versions used during testing):
 ```
@@ -73,5 +73,5 @@ Run on your machine
 $ sudo ./posix_demo
 ```
 
-##Pour démarrer
+## Pour démarrer
 https://www.freertos.org/simple-freertos-demos.html
