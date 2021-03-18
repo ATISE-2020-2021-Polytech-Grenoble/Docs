@@ -213,7 +213,7 @@ La principale difficulté du projet résidait dans le manque de matériel : en e
 Le second risque lié à ce projet est le manque de communication entre les différents membres du groupe. En effet, nous sommes principalement à distance, et il est parfois compliqué d’échanger correctement à travers nos écrans. Nous avons beau nous partager le code via notre GitHub, cela reste tout de même plus agréable lorsque quelqu’un nous explique ce qu’il a compris ou la meilleure manière d’installer tel ou tel outil de vive voix que via une fiche de documentation.
 # OUTILS
 
-<img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.008.png" style="zoom: 50%;" /><img src="Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.009.png" style="zoom: 25%;" /><img src="Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.010.png" style="zoom:25%;" />
+<img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.008.png" style="zoom: 50%;" /><img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.009.png" style="zoom: 25%;" /><img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.010.png" style="zoom:25%;" />
 
 
 
