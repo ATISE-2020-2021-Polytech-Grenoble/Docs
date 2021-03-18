@@ -17,7 +17,9 @@
 # REMERCIEMENTS
 Nous tenons à remercier Monsieur Frédéric Martin, notre responsable de projet du CSUG, qui nous a accompagnés dans la réalisation et a répondu à nos questions avec efficacité. Nous remercions aussi les enseignants de Polytech Grenoble pour nous avoir proposé un tel projet et nous avoir donné les compétences pour le réaliser. Nous tenons également à remercier le FabMSTIC pour leurs prêts de matériel.
 
-![](https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/fig1.png)*Figure 1 : Architecture du nanosatellite ATISE - Source*
+![](https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/fig1.png)
+
+*Figure 1 : Architecture du nanosatellite ATISE - Source*
 
 Le projet Aurora Thermosphere Ionosphere Spectrometer Experiment, ou ATISE, est un projet de nanosatellite lancé par le Centre Spatial Universitaire de Grenoble (CSUG) en 2015. Son objectif est d’étudier les aurores boréales depuis l’espace afin d’obtenir une meilleure compréhension de la magnétosphère et de l’activité solaire. Ce satellite, de très petite taille (format 12U : seulement 30cm✕20cm✕20cm) est en très grande partie réalisé par des étudiants de plusieurs pays, en moyenne 120 par an. Par exemple, le CSUT, Centre Universitaire de Toulouse, est chargé de réaliser la plateforme de ce nanosatellite tandis que le CSUG a pour mission de développer la partie instrumentale (appelée Payload sur le schéma ci-contre).
 
@@ -55,8 +57,11 @@ S’il y a le temps :
 Nous allons à présent vous présenter l’architecture interne de la partie Payload du satellite ATISE. Dans le schéma suivant, le Frame Grabber représente les outils qui collectent des informations comme l’appareil photo et le spectromètre. Le VDMA, soit Video Direct Access Memory, donne la possibilité à un périphérique d’entrées/sorties d’envoyer ou recevoir directement des données vers ou depuis la mémoire principale  pour accélérer les opérations de mémoire.
 
 ![](https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.007.png)
+
 *Figure 2 : Architecture interne de la partie Payload du nanosatellite - Schéma réalisé par nos soins*
+
 ![](https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/fig3.png)
+
 *Figure 3 : Composants principaux du nanosatellite  ATISE - Schéma réalisé par nos soins*
 
 ## 1) HDPyx
