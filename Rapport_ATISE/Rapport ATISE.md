@@ -1,4 +1,7 @@
+﻿
+
 # RAPPORT DE PROJET
+
 ## ATISE *Aurora Thermosphere Ionosphere Spectrometer Experiment*
 
 **Adrien ARTAUD**
@@ -13,8 +16,8 @@
 
 # REMERCIEMENTS
 Nous tenons à remercier Monsieur Frédéric Martin, notre responsable de projet du CSUG, qui nous a accompagnés dans la réalisation et a répondu à nos questions avec efficacité. Nous remercions aussi les enseignants de Polytech Grenoble pour nous avoir proposé un tel projet et nous avoir donné les compétences pour le réaliser. Nous tenons également à remercier le FabMSTIC pour leurs prêts de matériel.
-*Figure 1 : Architecture du nanosatellite ATISE - Source*
-*Figure 1 : Architecture du nanosatellite ATISE - Source*
+
+![](https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.007.png)*Figure 1 : Architecture du nanosatellite ATISE - Source*
 
 Le projet Aurora Thermosphere Ionosphere Spectrometer Experiment, ou ATISE, est un projet de nanosatellite lancé par le Centre Spatial Universitaire de Grenoble (CSUG) en 2015. Son objectif est d’étudier les aurores boréales depuis l’espace afin d’obtenir une meilleure compréhension de la magnétosphère et de l’activité solaire. Ce satellite, de très petite taille (format 12U : seulement 30cm✕20cm✕20cm) est en très grande partie réalisé par des étudiants de plusieurs pays, en moyenne 120 par an. Par exemple, le CSUT, Centre Universitaire de Toulouse, est chargé de réaliser la plateforme de ce nanosatellite tandis que le CSUG a pour mission de développer la partie instrumentale (appelée Payload sur le schéma ci-contre).
 
@@ -208,11 +211,15 @@ Semaine du 15/03
 La principale difficulté du projet résidait dans le manque de matériel : en effet, nous n’avions qu’une seule carte électronique. Nous avons donc dû organiser notre travail autour du fait que notre carte soit disponible en un unique exemplaire, et cela pour que ce soit un facteur le moins limitant possible. Nous avons donc mis en place deux solutions pour gérer ce problème. La première consiste à effectuer d’autres tâches utiles au projet telles que des recherches de documentations requises pour les étapes suivantes. Le but étant de rendre l’avancement de la personne chargée de la carte le plus fluide possible, tout en permettant à chacun de travailler sur le projet en parallèle. La seconde solution a été de mettre en place du pair programming pour s’occuper de la carte MARS ZX3. Ainsi, deux personnes pouvaient travailler en même temps sur la carte, l’un codant et l’autre relisant, conseillant et questionnant les choix effectués par son partenaire. La seconde personne est tout aussi active que celle qui code, son rôle est de corriger le code si nécessaire et de d’offrir des propositions d’amélioration le cas échéant. Nous avons ainsi pu mettre à profit les séances de travail où le critère de la carte unique était trop limitant pour impliquer un maximum de personnes dans le projet.
 
 Le second risque lié à ce projet est le manque de communication entre les différents membres du groupe. En effet, nous sommes principalement à distance, et il est parfois compliqué d’échanger correctement à travers nos écrans. Nous avons beau nous partager le code via notre GitHub, cela reste tout de même plus agréable lorsque quelqu’un nous explique ce qu’il a compris ou la meilleure manière d’installer tel ou tel outil de vive voix que via une fiche de documentation.
-# <img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.008.png" style="zoom:25%;" />
 # OUTILS
-Afin de pouvoir collaborer efficacement au projet en distanciel, nous avons utilisé plusieurs outils collaboratifs à notre disposition. Nos réunions, discussions et séances de travail en ligne se faisaient sur un serveur Discord dédié, où nous partagions aussi quelques ressources en cas de besoin immédiat. <img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.009.png" style="zoom: 25%;" />
 
-Pour travailler sur des fichiers en même temps et les stocker de manière simple, nous avons aussi utilisé Google Drive et Google Docs pour réaliser nos rapports, présentations ainsi que certaines documentations.<img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.010.png" style="zoom:25%;" />
+<img src="https://github.com/ATISE-2020-2021-Polytech-Grenoble/Docs/blob/master/Rapport_ATISE/images/Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.008.png" style="zoom: 50%;" /><img src="Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.009.png" style="zoom: 25%;" /><img src="Aspose.Words.6d576299-376e-43bd-9a8c-5cb8cf90e41c.010.png" style="zoom:25%;" />
+
+
+
+Afin de pouvoir collaborer efficacement au projet en distanciel, nous avons utilisé plusieurs outils collaboratifs à notre disposition. Nos réunions, discussions et séances de travail en ligne se faisaient sur un serveur Discord dédié, où nous partagions aussi quelques ressources en cas de besoin immédiat. 
+
+Pour travailler sur des fichiers en même temps et les stocker de manière simple, nous avons aussi utilisé Google Drive et Google Docs pour réaliser nos rapports, présentations ainsi que certaines documentations.
 
 Enfin, comme expliqué précédemment, nous utilisions Github comme gestionnaire de versions et de projets d’équipe.
 
@@ -285,36 +292,35 @@ UART :
 # ANNEXES
 
 ## BUDGET PRÉVISIONNEL
-| :-: |
-||
-||
-|||||
-|Libellé|Quantité|Coût unitaire|Total (€)|
-|MATIERES et COMPOSANTS :|
-|||||
-|||||
-|||||
-|Total 1|0,00|0,00|0,00|
-|||||
-|FRAIS GENERAUX :|
-|- Déplacements|1|5|5|
-|- Impression poster au format A0|1|40|40|
-|- Communications|1|5|5|
-|Total 2|3,00|16,67|50,00|
-|||||
-|MAIN D'ŒUVRE :|
+### MATIERES et COMPOSANTS 
+| Libellé | Quantité | Coût unitaire | Total (€) |
+| ------- | -------- | ------------- | --------- |
+| Total   | 0        | 0             | 0         |
+
+
+### FRAIS GENERAUX 
+
+| Libellé                        | Quantité | Coût unitaire | Total (€) |
+| ------------------------------ | -------- | ------------- | --------- |
+| Déplacements                   | 1        | 5             | 5         |
+| Impression poster au format A0 | 1        | 40            | 40        |
+| Communications                 | 1        | 5             | 5         |
+| Total                          |          |               | 50        |
+
+### MAIN D'ŒUVRE
 
 |- Ressources Humaines|4|3 020,20 €|12 080,80 €|
-|-||||
+|-|-|-|-|
 |Total 3|4,00|3020,20|12080,80|
-|||||
-|INVESTISSEMENTS (AMORTISSEMENTS) :|
-|- MARS ZX3|1|12,8|12,8|
-|- Raspberry Pi|2|0,6|1,2|
-|- STM32 Evaluation Board|2|6,4|12,8|
-|- Cartes SD|3|0,14|0,42|
-|Total 4|8,00|3,40|27,22|
-|||||
-|TOTAL GENERAL|||12158,02|
 
-PAGE
+### INVESTISSEMENTS (AMORTISSEMENTS) :
+
+| - Ressources Humaines    | 4    | 3 020,20 € | 12 080,80 € |
+| ------------------------ | ---- | ---------- | ----------- |
+| - MARS ZX3               | 1    | 12,8       | 12,8        |
+| - Raspberry Pi           | 2    | 0,6        | 1,2         |
+| - STM32 Evaluation Board | 2    | 6,4        | 12,8        |
+| - Cartes SD              | 3    | 0,14       | 0,42        |
+| Total 4                  | 8,00 | 3,40       | 27,22       |
+
+### TOTAL GENERAL:   12158,02€
